@@ -6,3 +6,4 @@ class Bill:
 class Income:    
     def __init__(self, revenue):
         self.revenue = revenue
+        
