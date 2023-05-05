@@ -1,4 +1,4 @@
-import main.py
+import main
 
 bills = []
 
